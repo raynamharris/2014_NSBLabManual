@@ -1,4 +1,4 @@
-# 2014 Laboratory Manual for Integrative Molecular Neuroethology Module
+# 2014 Integrative Molecular Neuroethology Module Laboratory Manual
 
 [Neural Systems & Behavior Course at the Marine Biological Laboratory](http://www.mbl.edu/nsb/)
 
