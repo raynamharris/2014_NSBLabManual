@@ -25,4 +25,14 @@ Chapter 8: Other Molecular Protocols
 Chapter 9: The Laboratory Notebook  
 Laboratory Notebook Pages
 Appendix: Hyperlinks for QR codes  
-Acknowledgements  
+Acknowledgements 
+
+# Citation
+
+This manual has been published on Zenodo.
+[![DOI](https://zenodo.org/badge/23969/raynamharris/2014_NSBLabManual.svg)](https://zenodo.org/badge/latestdoi/23969/raynamharris/2014_NSBLabManual)
+
+Rayna M Harris (2016). 2014_NSBLabManual: 2014 Integrative Molecular Neuroethology Module Laboratory Manual. Zenodo. 10.5281/zenodo.60725
+ 
+
+ 
